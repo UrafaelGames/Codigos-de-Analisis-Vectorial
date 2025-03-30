@@ -53,7 +53,7 @@ class VectorCalculusLauncher:
         
         ttk.Label(
             footer_frame,
-            text="Desarrollado por Javier Barros | v2.1",
+            text="Desarrollado por Urafael | v2.1",
             font=('Segoe UI', 8),
             foreground='#7f8c8d'
         ).pack(side=tk.RIGHT)
